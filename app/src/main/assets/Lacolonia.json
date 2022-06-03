@@ -1,0 +1,846 @@
+{
+  "supermercado": "La colonia",
+  "productos": [
+    {
+      "nombre": "Arroz El Faisan",
+      "categoria": "Abarrotes comestibles",
+      "precio": 89.75,
+      "medida": "2 kg"
+    },
+    {
+      "nombre": "Arroz Economax",
+      "categoria": "Abarrotes comestibles",
+      "precio": 73.75,
+      "medida": "2 kg"
+    },
+    {
+      "nombre": "Arroz El Faisan",
+      "categoria": "Abarrotes comestibles",
+      "precio": 21.25,
+      "medida": "400 gr"
+    },
+    {
+      "nombre": "Arroz caballo negro",
+      "categoria": "Abarrotes comestibles",
+      "precio": 87.50,
+      "medida": "2 kg"
+    },
+    {
+      "nombre": "Arroz Doña Maria",
+      "categoria": "Abarrotes comestibles",
+      "precio": 76.75,
+      "medida": "2 kg"
+    },
+    {
+      "nombre": "Azucar Morena",
+      "categoria": "Abarrotes comestibles",
+      "precio": 67.00,
+      "medida": "2 kg"
+    },
+    {
+      "nombre": "Azucar Monte Rosa",
+      "categoria": "Abarrotes comestibles",
+      "precio": 54.50,
+      "medida": "2 kg"
+    },
+    {
+      "nombre": "Azucar refinada",
+      "categoria": "Abarrotes comestibles",
+      "precio":  67.50,
+      "medida": "2 kg"
+    },
+    {
+      "nombre": "Azucar refinada",
+      "categoria": "Abarrotes comestibles",
+      "precio":  27.50,
+      "medida": "800 gr"
+    },
+    {
+      "nombre": "Azucar sulfitada",
+      "categoria": "Abarrotes comestibles",
+      "precio":  57.00,
+      "medida": "2 kg"
+    },
+    {
+      "nombre": "Sal fina",
+      "categoria": "Abarrotes comestibles",
+      "precio":  7.25,
+      "medida": "454 gr"
+    },
+    {
+      "nombre": "Sal refinada",
+      "categoria": "Abarrotes comestibles",
+      "precio":  14.25,
+      "medida": "500 gr"
+    },
+    {
+      "nombre": "Frijol Economax",
+      "categoria": "Abarrotes comestibles",
+      "precio":  85.00,
+      "medida": "2 gr"
+    },
+    {
+      "nombre": "Frijol Rojo",
+      "categoria": "Abarrotes comestibles",
+      "precio":  45.00,
+      "medida": "2 Lb"
+    },
+    {
+      "nombre": "Café Molido San Sebastian",
+      "categoria": "Abarrotes comestibles",
+      "precio":  60.00,
+      "medida": "400 gr"
+    },
+    {
+      "nombre": "Café Presto",
+      "categoria": "Abarrotes comestibles",
+      "precio":  60.00,
+      "medida": "40 sobres"
+    },
+    {
+      "nombre": "Café Selecto",
+      "categoria": "Abarrotes comestibles",
+      "precio":  70.00,
+      "medida": "400 gr"
+    },
+    {
+      "nombre": "Aceite Mazola Natural",
+      "categoria": "Abarrotes comestibles",
+      "precio":  481.00,
+      "medida": "1 galón"
+    },
+    {
+      "nombre": "Aceite Canola Mazola",
+      "categoria": "Abarrotes comestibles",
+      "precio":  124.83,
+      "medida": "32 ONZ"
+    },
+    {
+      "nombre": "Aceite de Oliva Vigo",
+      "categoria": "Abarrotes comestibles",
+      "precio":  224.58,
+      "medida": "8.5 ONZ"
+    },
+    {
+      "nombre": "Aderezo Cesar",
+      "categoria": "Abarrotes comestibles",
+      "precio":  108.00,
+      "medida": "240 gr"
+    },
+    {
+      "nombre": "Mostaza McComirck",
+      "categoria": "Abarrotes comestibles",
+      "precio":  481.00,
+      "medida": "1 galón"
+    },
+    {
+      "nombre": "Salsa Lizano",
+      "categoria": "Abarrotes comestibles",
+      "precio":  55.25,
+      "medida": "280 Ml"
+    },
+    {
+      "nombre": "Salsa Inglesa McComirck",
+      "categoria": "Abarrotes comestibles",
+      "precio":  79.00,
+      "medida": "10 ONZ"
+    },
+    {
+      "nombre": "Salsa Inglesa Azteca",
+      "categoria": "Abarrotes comestibles",
+      "precio":  22.57,
+      "medida": "5 ONZ"
+    },
+    {
+      "nombre": "Mayonesa Mccomirck",
+      "categoria": "Abarrotes comestibles",
+      "precio":  59.50,
+      "medida": "205 Ml"
+    },
+    {
+      "nombre": "Mayonesa Oliva",
+      "categoria": "Abarrotes comestibles",
+      "precio":  46.50,
+      "medida": "200 gr"
+    },
+    {
+      "nombre": "Ketchup ísima",
+      "categoria": "Abarrotes comestibles",
+      "precio":  10.50,
+      "medida": "106 gr"
+    },
+    {
+      "nombre": "Ketchup Gourmet",
+      "categoria": "Abarrotes comestibles",
+      "precio":  10.00,
+      "medida": "100 gr"
+    },
+    {
+      "nombre": "Kerns Ketchup",
+      "categoria": "Abarrotes comestibles",
+      "precio":  69.50,
+      "medida": "776 gr"
+    },
+    {
+      "nombre": "Naturas Ketchup",
+      "categoria": "Abarrotes comestibles",
+      "precio":  82.00,
+      "medida": "794 gr"
+    },
+    {
+      "nombre": "Sandwich spread McCormick",
+      "categoria": "Abarrotes comestibles",
+      "precio":  146.00,
+      "medida": "800 gr"
+    },
+    {
+      "nombre": "Salsa Jalapeña",
+      "categoria": "Abarrotes comestibles",
+      "precio":  68.00,
+      "medida": "150 Ml"
+    },
+    {
+      "nombre": "Chile Cabrón",
+      "categoria": "Abarrotes comestibles",
+      "precio":  112.00,
+      "medida": "5 ONZ"
+    },
+    {
+      "nombre": "Salsa de habanero",
+      "categoria": "Abarrotes comestibles",
+      "precio":  37.00,
+      "medida": "375.00 Ml"
+    },
+    {
+      "nombre": "Vinagre Blanco",
+      "categoria": "Abarrotes comestibles",
+      "precio":  116.00,
+      "medida": "32 ONZ"
+    },
+    {
+      "nombre": "Huevos Barranca",
+      "categoria": "Abarrotes comestibles",
+      "precio":  109.49,
+      "medida": "15 unidades"
+    },
+    {
+      "nombre": "Harina de Maiz Maseca",
+      "categoria": "Abarrotes comestibles",
+      "precio":  100.00,
+      "medida": "5 Lb" 
+    }, 
+    {
+      "nombre": "Bimbo Pan Integral",
+      "categoria": "Abarrotes comestibles",
+      "precio":  73.22,
+      "medida": "530 gr"
+    },
+    {
+      "nombre": "Chiltoma",
+      "categoria": "Frutas y Verduras",
+      "precio":  25.50,
+      "medida": "Docena"
+    },
+    {
+      "nombre": "Ayote",
+      "categoria": "Frutas y Verduras",
+      "precio":  6.25,
+      "medida": "Libra"
+    },
+    {
+      "nombre": "Cebolla Picada",
+      "categoria": "Frutas y Verduras",
+      "precio":  48.25,
+      "medida": "400 gr"
+    },
+    {
+      "nombre": "Berenjena",
+      "categoria": "Frutas y Verduras",
+      "precio":  19.25,
+      "medida": "Unidad" 
+    },
+    {
+      "nombre": "Berenjena",
+      "categoria": "Frutas y Verduras",
+      "precio":  19.25,
+      "medida": "Unidad"    
+    },
+    {
+      "nombre": "Chile Dulce",
+      "categoria": "Frutas y Verduras",
+      "precio":  38.75,
+      "medida": "Malla 4s" 
+    },
+    {
+      "nombre": "Elote dulce",
+      "categoria": "Frutas y Verduras",
+      "precio":  100.00,
+      "medida": "Bandeja" 
+    },
+    {
+      "nombre": "Banano",
+      "categoria": "Frutas y Verduras",
+      "precio":  1.95,
+      "medida": "Unidad" 
+    },
+    {
+      "nombre": "Banano maduro",
+      "categoria": "Frutas y Verduras",
+      "precio":  3.95,
+      "medida": "Unidad" 
+    },
+    {
+      "nombre": "Piña Criolla",
+      "categoria": "Frutas y Verduras",
+      "precio":  34.50,
+      "medida": "Unidad" 
+    },
+    {
+      "nombre": "Papaya Hawaiana",
+      "categoria": "Frutas y Verduras",
+      "precio":  8.75,
+      "medida": "Libra" 
+    },
+    {
+      "nombre": "Chile Cabro",
+      "categoria": "Frutas y Verduras",
+      "precio":  103.80,
+      "medida": "Libra" 
+    },
+    {
+      "nombre": "Manzana Roja",
+      "categoria": "Frutas y Verduras",
+      "precio":  46.72,
+      "medida": "Libra" 
+    },
+    {
+      "nombre": "Uva roja",
+      "categoria": "Frutas y Verduras",
+      "precio":  132.85,
+      "medida": "Libra" 
+    },
+    {
+      "nombre": "Brocoli",
+      "categoria": "Frutas y Verduras",
+      "precio":  75.31,
+      "medida": "Libra" 
+    },
+    {
+      "nombre": "Papa",
+      "categoria": "Frutas y Verduras",
+      "precio":  50.00,
+      "medida": "Libra" 
+    },
+    {
+      "nombre": "Tomate Criollo",
+      "categoria": "Frutas y Verduras",
+      "precio":  26.15,
+      "medida": "Libra" 
+    },
+    {
+      "nombre": "Ajo",
+      "categoria": "Frutas y Verduras",
+      "precio":  104.00,
+      "medida": "Libra" 
+    },
+    {
+      "nombre": "Lechuga Americana",
+      "categoria": "Frutas y Verduras",
+      "precio":  34.72,
+      "medida": "Unidad" 
+    },
+    {
+      "nombre": "Remolacha",
+      "categoria": "Frutas y Verduras",
+      "precio":  31.38,
+      "medida": "Libra" 
+    },
+    {
+      "nombre": "Carne molida",
+      "categoria": "Carnes",
+      "precio":  76.50,
+      "medida": "Libra" 
+    },
+    {
+      "nombre": "Carne para desmenuzar",
+      "categoria": "Carnes",
+      "precio":  98.68,
+      "medida": "Libra"
+    },
+    {
+      "nombre": "Cabeza de lomo",
+      "categoria": "Carnes",
+      "precio":  163.20,
+      "medida": "Libra"
+    },
+    {
+      "nombre": "Carne para bisteck",
+      "categoria": "Carnes",
+      "precio":  159.70,
+      "medida": "Libra"
+    },
+    {
+      "nombre": "Carne para salpicón",
+      "categoria": "Carnes",
+      "precio":  136.70,
+      "medida": "Libra"
+    },
+    {
+      "nombre": "Carne para Azar",
+      "categoria": "Carnes",
+      "precio":  162.15,
+      "medida": "Libra"
+    },
+    {
+      "nombre": "Posta de cerdo",
+      "categoria": "Carnes",
+      "precio":  91.35,
+      "medida": "Libra"
+    },
+    {
+      "nombre": "Costilla de cerdo",
+      "categoria": "Carnes",
+      "precio":  425.41,
+      "medida": "Libra"
+    },
+    {
+      "nombre": "Lomo de cerdo importado",
+      "categoria": "Carnes",
+      "precio":  110.88,
+      "medida": "Libra"
+    },
+    {
+      "nombre": "Muslo de pollo",
+      "categoria": "Carnes",
+      "precio":  97.28,
+      "medida": "Libra"
+    },
+    {
+      "nombre": "Pierna con muslo",
+      "categoria": "Carnes",
+      "precio":  77.00,
+      "medida": "Libra"
+    },
+    {
+      "nombre": "Pechuga de pollo",
+      "categoria": "Carnes",
+      "precio":  52.00,
+      "medida": "Libra"
+    },
+    {
+      "nombre": "Filete de pollo",
+      "categoria": "Carnes",
+      "precio":  96.50,
+      "medida": "Libra"
+    },
+    {
+      "nombre": "Rabadilla de pollo fresca",
+      "categoria": "Carnes",
+      "precio":  26.25,
+      "medida": "Libra"
+    },
+    {
+      "nombre": "Lengua de res",
+      "categoria": "Carnes",
+      "precio":  358.00,
+      "medida": "Libra"
+    },
+    {
+      "nombre": "Hígado de res",
+      "categoria": "Carnes",
+      "precio":  22.00,
+      "medida": "Libra"
+    },
+    {
+      "nombre": "Hueso corriente de res",
+      "categoria": "Carnes",
+      "precio":  12.00,
+      "medida": "Libra"   
+    },
+    {
+      "nombre": "Salmón ahumado",
+      "categoria": "Carnes",
+      "precio":  358.00,
+      "medida": "4 ONZ"
+    },
+    {
+      "nombre": "Filete de róbalo",
+      "categoria": "Carnes",
+      "precio":  301.63,
+      "medida": "Libra"
+    },
+    {
+      "nombre": "Alitas Picantes",
+      "categoria": "Carnes",
+      "precio":  71.75,
+      "medida": "Libra"
+    },
+    {
+      "nombre": "Filete de tilapia",
+      "categoria": "Carnes",
+      "precio":  140.25,
+      "medida": "Libra"
+    },
+    {
+      "nombre": "Caracú",
+      "categoria": "Carnes",
+      "precio":  66.00,
+      "medida": "Libra"
+    },
+    {
+      "nombre": "Corbata",
+      "categoria": "Carnes",
+      "precio":  118.25,
+      "medida": "Libra"
+    },
+    {
+      "nombre": "Leche eskimo",
+      "categoria": "Lácteos",
+      "precio":  40.00,
+      "medida": "900 ML"
+    },
+    {
+      "nombre": "Leche descremada",
+      "categoria": "Lácteos",
+      "precio":  63.82,
+      "medida": "1 Lt"
+    },
+    {
+      "nombre": "Leche semidescremada eskimo",
+      "categoria": "Lácteos",
+      "precio":  40.00,
+      "medida": "900 Ml"
+    },
+    {
+      "nombre": "Centrolac Leche entera",
+      "categoria": "Lácteos",
+      "precio":  48.00,
+      "medida": "900 Ml"
+    },
+    {
+      "nombre": "Dos pinos Leche descremada",
+      "categoria": "Lácteos",
+      "precio":  58.00,
+      "medida": "1 Lt"
+    },
+    {
+      "nombre": "Centrolac Leche sabor fresa",
+      "categoria": "Lácteos",
+      "precio":  16.00,
+      "medida": "200 Ml"
+    },
+    {
+      "nombre": "Centrolac Leche sabor vainilla",
+      "categoria": "Lácteos",
+      "precio":  16.00,
+      "medida": "200 ML"
+    },
+    {
+      "nombre": "Centrolac Leche sabor fresa",
+      "categoria": "Lácteos",
+      "precio":  16.00,
+      "medida": "200 ML"
+    }, 
+    {
+      "nombre": "Queso amarillo americano",
+      "categoria": "Lácteos",
+      "precio":  45.00,
+      "medida": "180 gr"
+    },
+    {
+      "nombre": "Queso Cheddar fuerte",
+      "categoria": "Lácteos",
+      "precio":  280.75,
+      "medida": "200 ML"
+    },
+    {
+      "nombre": "Queso crema Dos Pinos",
+      "categoria": "Lácteos",
+      "precio":  180.00,
+      "medida": "200 ML"
+    },
+    {
+      "nombre": "Queso Mozzarella",
+      "categoria": "Lácteos",
+      "precio":  87.00,
+      "medida": "200 ML"
+    },
+    {
+      "nombre": "Crema La Perfecta",
+      "categoria": "Lácteos",
+      "precio":  42.50,
+      "medida": "454 gr"
+    },
+    {
+      "nombre": "Crema natural Quesos Palmito",
+      "categoria": "Lácteos",
+      "precio":  66.25,
+      "medida": "1 Lb"
+    },
+    {
+      "nombre": "Crema Dos Pinos La Granja",
+      "categoria": "Lácteos",
+      "precio":  37.00,
+      "medida": "300 gr"
+    },
+    {
+      "nombre": "Crema La Norteña",
+      "categoria": "Lácteos",
+      "precio":  80.00,
+      "medida": "454 gr"
+    },
+    {
+      "nombre": "Margarina La Perfecta",
+      "categoria": "Lácteos",
+      "precio":  181.4,
+      "medida": "450 gr"
+    },
+    {
+      "nombre": "Margarina Mazola",
+      "categoria": "Lácteos",
+      "precio":  76.80,
+      "medida": "400 gr"
+    },
+    {
+      "nombre": "Margarina Cremy",
+      "categoria": "Lácteos",
+      "precio":  185.15,
+      "medida": "1362 gr"
+    },
+    {
+      "nombre": "Margarina Numar",
+      "categoria": "Lácteos",
+      "precio":  173.30,
+      "medida": "1360 gr"
+    },
+    {
+      "nombre": "Salchicha Parrillera Delmor",
+      "categoria": "Embutidos",
+      "precio":  117.51,
+      "medida": "454 gr"
+    },
+    {
+      "nombre": "Salchichón Picante",
+      "categoria": "Embutidos",
+      "precio":  41.15,
+      "medida": "200 gr"
+    },
+    {
+      "nombre": "Salchicha Jumbo",
+      "categoria": "Embutidos",
+      "precio":  230.84,
+      "medida": "1 kg"
+    },
+    {
+      "nombre": "Bacon Economax",
+      "categoria": "Embutidos",
+      "precio":  98.45,
+      "medida": "200 gr"
+    },
+    {
+      "nombre": "Salchicha parrillera TIP-TOP",
+      "categoria": "Embutidos",
+      "precio":  297.45,
+      "medida": "2.2 Lb"
+    },
+    {
+      "nombre": "Jamón Delmor",
+      "categoria": "Embutidos",
+      "precio":  46.72,
+      "medida": "125 gr"
+    },
+    {
+      "nombre": "Chorizo CAINSA",
+      "categoria": "Embutidos",
+      "precio":  135.00,
+      "medida": "300 gr"
+    },
+    {
+      "nombre": "Bacon CAINSA",
+      "categoria": "Embutidos",
+      "precio":  156.25,
+      "medida": "200 gr"
+    },
+    {
+      "nombre": "Chorizo Criollo San Jose",
+      "categoria": "Embutidos",
+      "precio":  62.50,
+      "medida": "250 gr"
+    },
+    {
+      "nombre": "Salami ahumado",
+      "categoria": "Embutidos",
+      "precio":  77.88,
+      "medida": "150 gr"
+    },
+    {
+      "nombre": "Néctar de Naranja La Perfecta",
+      "categoria": "Bebidas",
+      "precio":  40.00,
+      "medida": "900 Ml"
+    },
+    {
+      "nombre": "Seven Up ",
+      "categoria": "Bebidas",
+      "precio":  72.00,
+      "medida": "3 Lts"
+    },
+    {
+      "nombre": "Gaseosa PEPSI",
+      "categoria": "Bebidas",
+      "precio":  45.00,
+      "medida": "2.25 Lt"
+    },
+    {
+      "nombre": "Lipton Té Negro",
+      "categoria": "Bebidas",
+      "precio":  250.00,
+      "medida": "50 unidades"
+    },
+    {
+      "nombre": "Gaseosa Coca-Cola Mini Lata",
+      "categoria": "Bebidas",
+      "precio":  140.00,
+      "medida": "8pk"
+    },
+    {
+      "nombre": "Fanta roja",
+      "categoria": "Bebidas",
+      "precio":  25.00,
+      "medida": "1.25 Lt"
+    },
+    {
+      "nombre": "Fanta naranja",
+      "categoria": "Bebidas",
+      "precio":  25.00,
+      "medida": "1.25 Lt" 
+    },
+    {
+      "nombre": "Coca-Cola clásica",
+      "categoria": "Bebidas",
+      "precio":  50.00,
+      "medida": "3 Lt"
+    },
+    {
+      "nombre": "Jugo HI-C",
+      "categoria": "Bebidas",
+      "precio":  16.00,
+      "medida": "250 Ml"
+    },
+    {
+      "nombre": "Cerveza Toña",
+      "categoria": "Bebidas",
+      "precio":  29.00,
+      "medida": "12 ONZ"
+    },
+    {
+      "nombre": "Cerveza Victoria",
+      "categoria": "Bebidas",
+      "precio":  29.00,
+      "medida": "12 ONZ"
+    },
+    {
+      "nombre": "Cerveza Victoria",
+      "categoria": "Bebidas",
+      "precio":  33.00,
+      "medida": "12 ONZ"
+    },
+    {
+      "nombre": "Cerveza Victoria Frost",
+      "categoria": "Bebidas",
+      "precio":  29.00,
+      "medida": "12 ONZ"
+    },
+    {
+      "nombre": "Vino Presidente",
+      "categoria": "Bebidas",
+      "precio":  162.35,
+      "medida": "750 Ml"
+    },
+    {
+      "nombre": "Sidra La Castellama",
+      "categoria": "Bebidas",
+      "precio":  198.00,
+      "medida": "750 Ml"
+    },
+    {
+      "nombre": "Vodka Grey Goose",
+      "categoria": "Bebidas",
+      "precio":  1218.00,
+      "medida": "375 Ml"
+    },
+    {
+      "nombre": "Smirnoff",
+      "categoria": "Bebidas",
+      "precio":  711.00,
+      "medida": "750 Ml"
+    },
+    {
+      "nombre": "Tequila Reposado",
+      "categoria": "Bebidas",
+      "precio":  1412.00,
+      "medida": "750 Ml"
+    },
+    {
+      "nombre": " Flor de Caña",
+      "categoria": "Bebidas",
+      "precio":  450.00,
+      "medida": "100 Ml"
+    },
+    {
+      "nombre": "Vodka Skyy",
+      "categoria": "Bebidas",
+      "precio":  580.00,
+      "medida": "250 Ml"
+    },
+    {
+      "nombre": "Galletas Chiky",
+      "categoria": "Snacks",
+      "precio":  84.00,
+      "medida": "12 Unidades"
+    },
+    {
+      "nombre": "Alboroto",
+      "categoria": "Snacks",
+      "precio":  30.00,
+      "medida": "200 gr"
+    },
+    {
+      "nombre": "Lays",
+      "categoria": "Snacks",
+      "precio":  60.00,
+      "medida": "6.05 ONZ"
+    },
+    {
+      "nombre": "Doritos",
+      "categoria": "Snacks",
+      "precio":  60.00,
+      "medida": "6.05 ONZ"
+    },
+    {
+      "nombre": "Barquillos chocolates",
+      "categoria": "Snacks",
+      "precio":  55.25,
+      "medida": "145 grs"
+    },
+    {
+      "nombre": "Galletas Avena CAJA",
+      "categoria": "Snacks",
+      "precio":  95.00,
+      "medida": "339 gr"
+    },
+    {
+      "nombre": "Chcolates Kisses",
+      "categoria": "Snacks",
+      "precio":  150.00,
+      "medida": "10.098 ONZ"
+    },
+    {
+      "nombre": "Sapito Cacahuate",
+      "categoria": "Snacks",
+      "precio":  50.00,
+      "medida": "200 gr"
+    }
+   
+  ]
+}
